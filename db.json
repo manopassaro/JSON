@@ -7,6 +7,10 @@
     {
       "id": 2,
       "task": "estudar"
+    },
+    {
+      "task": "terminar o projeto",
+      "id": 3
     }
   ]
 }
